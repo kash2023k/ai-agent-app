@@ -1,7 +1,4 @@
-Django
+Django==4.2
 gunicorn
-crewai==0.11.2
-crewai-tools
-langchain
-langchain-community
+crewai==0.11.0
 python-dotenv
