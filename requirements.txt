@@ -4,3 +4,4 @@ openai
 python-dotenv
 crewai==1.12.2
 crewai-tool
+python-3.11.9
